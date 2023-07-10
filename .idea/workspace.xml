@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f63d8125-0b4a-49bf-82e2-06879f442eba" name="Changes" comment="site finalizado">
+    <list default="true" id="f63d8125-0b4a-49bf-82e2-06879f442eba" name="Changes" comment="site finalizado.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688993584785</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="site finalizado.">
+      <created>1688996315367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688996315367</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,6 +72,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="site finalizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="site finalizado" />
+    <MESSAGE value="site finalizado." />
+    <option name="LAST_COMMIT_MESSAGE" value="site finalizado." />
   </component>
 </project>
